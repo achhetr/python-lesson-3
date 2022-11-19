@@ -1,0 +1,17 @@
+# if/else
+
+# switch case
+
+# while loop
+
+# for loop
+
+# for else
+
+# bonus topics
+# functions
+
+# nested loops and loops conditions
+# why `or` was not working match cases
+
+# programming challenge
